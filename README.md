@@ -18,13 +18,27 @@
 
 # 📊 GitHub Stats:
 
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=mosipamo&theme=tokyonight&hide_border=false)<br/> -->
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=mosipamo&theme=tokyonight" width="51%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mosipamo&layout=compact&show_icons=true&theme=tokyonight" alt="mosipamo github-readme-stats" width="48%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosipamo&layout=compact&theme=tokyonight" alt="mosipamo github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mosipamo&theme=merko" alt="mosipamo github readme activity graph" width="60%" />
+</div>
 
+<br />
+
+
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=mosipamo&theme=tokyonight&hide_border=false)<br/> -->
+<!-- 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mosipamo&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 [![Sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosipamo&show_icons=true&theme=tokyonight)](https://github.com/mosipamo/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosipamo&theme=tokyonight&hide_border=false&layout=compact)](https://github.com/mosipamo/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosipamo&theme=tokyonight&hide_border=false&layout=compact)](https://github.com/mosipamo/github-readme-stats) -->
 
 
 <!-- [![](https://visitcount.itsvg.in/api?id=mosipamo&icon=5&color=0)](https://visitcount.itsvg.in) -->
