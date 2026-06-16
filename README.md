@@ -18,7 +18,18 @@ Research Assistant focusing on GBL(Game Based Learning) at TELAB
 
 # 📊 GitHub Stats:
 
-<div align="center">
+
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=mosipamo&theme=onedark" width="51%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mosipamo&layout=compact&show_icons=true&theme=onedark" alt="mosipamo github-readme-stats" width="48%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosipamo&layout=compact&theme=onedark" alt="mosipamo github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mosipamo&theme=merko" alt="mosipamo github readme activity graph" width="60%" />
+</div>
+
+<!-- <div align="center">
   <img 
     src="https://github-readme-streak-stats-eight.vercel.app/?user=mosipamo&theme=onedark"
     width="50%"
@@ -31,7 +42,8 @@ Research Assistant focusing on GBL(Game Based Learning) at TELAB
     alt="mosipamo github readme activity graph"
     width="100%"
   />
-</div>  
+</div>   -->
+
 <!-- <br /> -->
 <!-- <div> -->
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mosipamo&layout=compact&show_icons=true&theme=tokyonight" alt="mosipamo github-readme-stats" width="48%" /> -->
