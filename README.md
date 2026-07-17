@@ -2,8 +2,8 @@
 
 ## About Me
 - Computer Engineering Student at the University of Tehran
-- Backend Developer at <a href="https://aidasales.ir"> Aidasales </a>  
-Research Assistant focusing on GBL(Game Based Learning) at TELAB
+<!-- - Backend Developer at <a href="https://aidasales.ir"> Aidasales </a>  
+Research Assistant focusing on GBL(Game Based Learning) at TELAB --> 
 
 - 📫 How to reach me: sina.sipamo@gmail.com
 
