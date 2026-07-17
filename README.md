@@ -18,47 +18,36 @@ Research Assistant focusing on GBL(Game Based Learning) at TELAB -->
 
 # 📊 GitHub Stats:
 
-
-<!-- <div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=mosipamo&theme=onedark" width="51%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mosipamo&layout=compact&show_icons=true&theme=onedark" alt="mosipamo github-readme-stats" width="48%" />
-</div>
-<br />
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosipamo&layout=compact&theme=onedark" alt="mosipamo github readme top-langs" width="39%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mosipamo&theme=merko" alt="mosipamo github readme activity graph" width="60%" />
-</div> --> 
-
-<div align="center">
-  <img 
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=mosipamo&theme=onedark"
-    width="50%"
-  />
-</div>
-
-<div>
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mosipamo&theme=merko"
-    alt="mosipamo github readme activity graph"
-    width="100%"
-  />
-</div>
-
-<!-- <br /> -->
-<!-- <div> -->
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mosipamo&layout=compact&show_icons=true&theme=tokyonight" alt="mosipamo github-readme-stats" width="48%" /> -->
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosipamo&layout=compact&theme=tokyonight" alt="mosipamo github readme top-langs" width="39%" /> -->
-<!-- </div> -->
-<!-- <br /> -->
-
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=mosipamo&theme=tokyonight&hide_border=false)<br/> -->
-<!-- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mosipamo&theme=tokyonight-duo)](https://git.io/streak-stats)
-
-[![Sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosipamo&show_icons=true&theme=tokyonight)](https://github.com/mosipamo/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosipamo&theme=tokyonight&hide_border=false&layout=compact)](https://github.com/mosipamo/github-readme-stats) -->
-
-
-<!-- [![](https://visitcount.itsvg.in/api?id=mosipamo&icon=5&color=0)](https://visitcount.itsvg.in) -->
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img 
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=mosipamo&theme=onedark"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img 
+        src="https://github-stats-extended.vercel.app/api?username=mosipamo&show_icons=true&theme=onedark"
+        alt="mosipamo github stats"
+        width="100%"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img 
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=mosipamo&layout=compact&theme=onedark"
+        alt="mosipamo top languages"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=mosipamo&theme=merko"
+        alt="mosipamo github readme activity graph"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
