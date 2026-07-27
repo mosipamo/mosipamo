@@ -2,7 +2,7 @@
 
 ## About Me
 - Computer Engineering Student at the University of Tehran
-- Co-Founder & Backend Developer @ <a href="https://boomrotrarvel.ir"> Boomro </a>
+- Co-Founder & Backend Developer @ <a href="https://boomrotravel.ir"> Boomro </a>
 <!-- - Research Assistant focusing on GBL(Game Based Learning) at TELAB --> 
 
 - 📫 How to reach me: sina.sipamo@gmail.com
